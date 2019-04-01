@@ -25,7 +25,7 @@ Have 4 windows open as
 
       slack      jira
 
-      jira       circleCI
+      github     circleCI
 
 then open terminal windows / IDE's as needed in the middle to do work
 
