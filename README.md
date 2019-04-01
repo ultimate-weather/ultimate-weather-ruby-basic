@@ -20,7 +20,8 @@ Practice:
 - Add a branch to the github repo "your_first_last_name_todays_date_eg_03012019"  
 - Update the README.md file to include your name at the top ("by Michael and Ben...")  
 - Add and Commit your change in Git  
-- Push branch  
-- Create Pull Request
+- Push branch locally 
+- Ensure CI passes in CircleCI
+- Create Pull Request in github
 - Get review(s) and Approvals
-- Merge ticket to Master  
+- Merge ticket to Master thru github  
