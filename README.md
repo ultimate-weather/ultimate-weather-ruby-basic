@@ -21,5 +21,6 @@ Practice:
 - Update the README.md file to include your name at the top ("by Michael and Ben...")  
 - Add and Commit your change in Git  
 - Push branch  
-- Get review(s)  
+- Create Pull Request
+- Get review(s) and Approvals
 - Merge ticket to Master  
