@@ -1,19 +1,35 @@
-## ultimate-weather  
+# ultimate-weather  
 ##  
 ### by Michael and Ben
 
 ### Onboarding:
 
-Set up the bookmarks and have the windows open as quadrants
+#### Step 1
+
+Get invited into slack by someone on the team  
+Get added to Jira by someone on the team (project Settings -> People -> Add people) as an administrator  
+Get added to github repo as collaborator by repo owner
+
+#### Step 2
+
+Set up the bookmarks 
 
 slack - https://ultimateweather.slack.com/  
 jira - https://ultimate-weather.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=UL  
 github - https://github.com/durrantm/ultimate-weather  
 circleCI - https://circleci.com/gh/durrantm/ultimate-weather/
 
-Get invited into slack by someone on the team  
-Get added to Jira by someone on the team (project Settings -> People -> Add people) as an administrator  
-Get added to github repo as collaborator by repo owner
+#### Step 3
+
+Have 4 windows open as
+
+slack    jira
+
+jira     circleCI
+
+then open terminal windows / IDE's as needed in the middle to do work
+
+#### Step 4
 
 Practice:  
 - Add a ticket "onboard me"  
