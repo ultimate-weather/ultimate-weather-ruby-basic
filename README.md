@@ -1,6 +1,6 @@
 ## ultimate-weather  
 ##  
-## by Michael and Ben
+### by Michael and Ben
 
 ### Onboarding:
 
