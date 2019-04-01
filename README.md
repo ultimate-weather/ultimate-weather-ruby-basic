@@ -23,9 +23,9 @@ circleCI - https://circleci.com/gh/durrantm/ultimate-weather/
 
 Have 4 windows open as
 
-slack    jira
+      slack      jira
 
-jira     circleCI
+      jira       circleCI
 
 then open terminal windows / IDE's as needed in the middle to do work
 
