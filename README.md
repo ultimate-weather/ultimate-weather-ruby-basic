@@ -12,7 +12,7 @@ Get added to github repo as collaborator by repo owner
 
 #### Step 2
 
-Set up the bookmarks 
+Set up the bookmarks (use Chrome as your browser)
 
 slack - https://ultimateweather.slack.com/  
 jira - https://ultimate-weather.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=UL  
