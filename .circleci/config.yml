@@ -8,9 +8,9 @@ jobs:
       - checkout
 
       - run:
-          name: Greeting
-          command: echo Hello, world.
+          name: bundle 
+          command: bundle 
 
       - run:
-          name: Print the Current Time
-          command: date
+          name: run tests 
+          command: bundle exec rspec 
