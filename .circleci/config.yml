@@ -10,13 +10,11 @@ jobs:
       - run:
           name: Greeting
           command: echo Hello, world.
-
       - run:
           name: run tests
           command: gem install bundler
           command: bundle
           command: bundle exec rspec spec
-
       - run:
           name: Print the Current Time
           command: date
