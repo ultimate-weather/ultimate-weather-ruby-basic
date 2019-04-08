@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: debian:stretch
+      - image: ubuntu:ruby
 
     steps:
       - checkout
@@ -10,9 +10,10 @@ jobs:
       - run:
           name: Greeting
           command: echo Hello, world.
-      - run:
-          name: run tests
-          command: gem install bundler && bundle && bundle exec rspec spec
+      -run:
+          name: bundle
+          command: bundle exec rspec spec/*
+          
       - run:
           name: Print the Current Time
           command: date
