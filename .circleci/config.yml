@@ -12,5 +12,9 @@ jobs:
           command: echo Hello, world.
 
       - run:
+          name: run tests
+          command: bndle exec rspec spec
+
+      - run:
           name: Print the Current Time
           command: date
