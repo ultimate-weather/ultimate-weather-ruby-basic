@@ -6,7 +6,11 @@ jobs:
 
     steps:
       - checkout
-
+      
+      - run:
+          name: install bundler
+          command: bundle
+          
       - run:
           name: Greeting
           command: echo Hello, world.
