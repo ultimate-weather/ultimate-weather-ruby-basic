@@ -13,7 +13,7 @@ jobs:
 
       - run:
           name: run tests
-          command: bndle exec rspec spec
+          command: bundle exec rspec spec
 
       - run:
           name: Print the Current Time
