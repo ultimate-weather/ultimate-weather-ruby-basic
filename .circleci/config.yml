@@ -8,7 +8,7 @@ jobs:
       - checkout
       
       - run:
-          name: install bundler
+          name: Install bundler
           command: bundle
           
       - run:
@@ -16,7 +16,7 @@ jobs:
           command: echo Hello, world.
           
       - run:
-          name: bundle
+          name: Run tests
           command: bundle exec rspec spec/*
           
       - run:
