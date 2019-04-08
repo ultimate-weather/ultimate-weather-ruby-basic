@@ -13,6 +13,8 @@ jobs:
 
       - run:
           name: run tests
+          command: gem install bundler
+          command: bundle
           command: bundle exec rspec spec
 
       - run:
